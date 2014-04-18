@@ -10,6 +10,7 @@
     <file path="/_form.html.erb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397836769804" ignored="false" />
     <file path="/page.rb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397838152738" ignored="false" />
     <file path="/database.yml" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397840192726" ignored="false" />
+    <file path="/production.rb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397842728569" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.15679443">
+            <state line="9" column="82" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="44" selection-start="3389" selection-end="3389" vertical-scroll-proportion="0.923339">
               <folding />
             </state>
           </provider>
@@ -59,7 +69,16 @@
       <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="67" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
+            <state line="8" column="94" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="active_admin.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,26 +127,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="active_admin.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1397837817840" expanded="true" signature="18:7275" placeholder="do ... end" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages.js.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/pages.js.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="65" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -149,6 +148,7 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -529,15 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1397837817840" expanded="true" signature="18:7275" placeholder="do ... end" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/pages.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="65" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
@@ -569,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="67" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="2" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
@@ -603,7 +587,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.15679443">
+        <state line="9" column="82" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="94" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="44" selection-start="3389" selection-end="3389" vertical-scroll-proportion="0.923339">
           <folding />
         </state>
       </provider>
