@@ -29,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="60" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+            <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15679443">
               <folding />
             </state>
           </provider>
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="devise.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="devise.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="377" selection-end="377" vertical-scroll-proportion="0.15679443">
+            <state line="6" column="2" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -69,7 +69,11 @@
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="2" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1397836912840" expanded="true" signature="30:1737" placeholder="do ... end" />
+                <marker date="1397836912840" expanded="true" signature="176:373" placeholder="#..." />
+                <marker date="1397836912840" expanded="true" signature="398:1733" placeholder="#..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +91,10 @@
         <entry file="file://$PROJECT_DIR$/app/admin/page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="46" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1397838156368" expanded="true" signature="38:171" placeholder="do ... end" />
+                <marker date="1397838156368" expanded="true" signature="68:165" placeholder="do ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +112,9 @@
         <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1397837817840" expanded="true" signature="18:7275" placeholder="do ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,9 +146,9 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/pages.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/active_admin.js.coffee" />
         <option value="$PROJECT_DIR$/app/admin/page.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -523,7 +532,9 @@
     <entry file="file://$PROJECT_DIR$/config/initializers/active_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="241" column="47" selection-start="7221" selection-end="7221" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1397837817840" expanded="true" signature="18:7275" placeholder="do ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -544,7 +555,10 @@
     <entry file="file://$PROJECT_DIR$/app/admin/page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="46" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1397838156368" expanded="true" signature="38:171" placeholder="do ... end" />
+            <marker date="1397838156368" expanded="true" signature="68:165" placeholder="do ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,14 +579,11 @@
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="2" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="60" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1397836912840" expanded="true" signature="30:1737" placeholder="do ... end" />
+            <marker date="1397836912840" expanded="true" signature="176:373" placeholder="#..." />
+            <marker date="1397836912840" expanded="true" signature="398:1733" placeholder="#..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -585,7 +596,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="377" selection-end="377" vertical-scroll-proportion="0.15679443">
+        <state line="6" column="2" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15679443">
           <folding />
         </state>
       </provider>
