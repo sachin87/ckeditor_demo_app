@@ -4,7 +4,7 @@
     <list default="true" id="fd7e5037-17b4-40b9-9a76-c8438e5675f1" name="Default" comment="" />
     <ignored path="ckeditor_demo_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397840146284" ignored="false" />
+    <file path="/Gemfile" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397842437313" ignored="false" />
     <file path="/Dummy.txt" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397835833478" ignored="false" />
     <file path="/routes.rb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397836736278" ignored="false" />
     <file path="/_form.html.erb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397836769804" ignored="false" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15679443">
+            <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.15679443">
               <folding />
             </state>
           </provider>
@@ -603,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15679443">
+        <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.15679443">
           <folding />
         </state>
       </provider>
