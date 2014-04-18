@@ -4,11 +4,12 @@
     <list default="true" id="fd7e5037-17b4-40b9-9a76-c8438e5675f1" name="Default" comment="" />
     <ignored path="ckeditor_demo_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397835809764" ignored="false" />
+    <file path="/Gemfile" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397840146284" ignored="false" />
     <file path="/Dummy.txt" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397835833478" ignored="false" />
     <file path="/routes.rb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397836736278" ignored="false" />
     <file path="/_form.html.erb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397836769804" ignored="false" />
     <file path="/page.rb" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397838152738" ignored="false" />
+    <file path="/database.yml" changelist="fd7e5037-17b4-40b9-9a76-c8438e5675f1" time="1397840192726" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="14" selection-start="179" selection-end="179" vertical-scroll-proportion="0.15679443">
+            <state line="9" column="52" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="34" selection-start="224" selection-end="246" vertical-scroll-proportion="0.3321976">
               <folding />
             </state>
           </provider>
@@ -128,6 +138,7 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/active_admin.js.coffee" />
         <option value="$PROJECT_DIR$/app/admin/page.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -559,7 +570,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="179" selection-end="179" vertical-scroll-proportion="0.15679443">
+        <state line="9" column="52" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="224" selection-end="246" vertical-scroll-proportion="0.3321976">
           <folding />
         </state>
       </provider>
