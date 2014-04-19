@@ -81,5 +81,5 @@ Rails.application.configure do
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
   config.assets.precompile += ['active_admin.js']
-  config.action_controller.asset_host = "//s3.amazonaws.com/#{ENV['FOG_DIRECTORY']}"
+  config.action_controller.asset_host = "//s3.amazonaws.com/#{ENV['S3_BUCKET_NAME']}"
 end
