@@ -34,6 +34,7 @@ gem 'ransack',     github: 'activerecord-hackery/ransack'
 gem 'formtastic',  github: 'justinfrench/formtastic'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'asset_sync'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
