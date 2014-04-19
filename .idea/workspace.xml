@@ -61,19 +61,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="83" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.7955707">
+            <state line="83" column="83" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asset_sync.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="asset_sync.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/asset_sync.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+            <state line="27" column="2" selection-start="998" selection-end="998" vertical-scroll-proportion="0.6899489">
               <folding />
             </state>
           </provider>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/active_admin.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/initializers/asset_sync.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/asset_sync.rb" />
       </list>
     </option>
   </component>
@@ -713,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/active_admin.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="67" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0">
@@ -741,16 +734,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/asset_sync.rb">
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+        <state line="83" column="83" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/active_admin.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="83" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.7955707">
+        <state line="2" column="1" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/asset_sync.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="2" selection-start="998" selection-end="998" vertical-scroll-proportion="0.6899489">
           <folding />
         </state>
       </provider>
