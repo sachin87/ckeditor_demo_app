@@ -15,7 +15,6 @@
 //= require turbolinks
 //= require ckeditor/override
 //= require ckeditor/init
-//= require ckeditor/ckeditor
 //= require_tree .
 
 (function() {
