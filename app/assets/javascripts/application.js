@@ -13,5 +13,14 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require ckeditor/override
 //= require ckeditor/init
+//= require ckeditor/ckeditor
 //= require_tree .
+
+(function() {
+    if (typeof window['CKEDITOR_BASEPATH'] === "undefined" || window['CKEDITOR_BASEPATH'] === null) {
+        window['CKEDITOR_BASEPATH'] = "/assets/ckeditor/";
+    }
+}).call(this);
+
